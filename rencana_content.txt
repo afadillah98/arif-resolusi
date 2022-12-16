@@ -1,3 +1,4 @@
 - mau bikin article jaringan komputer
     >switching
+    >routing
 - mau bikin video tutorial/ vidio ngoprek
